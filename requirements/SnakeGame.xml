@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\ASUS\NetBeansProjects\SnakeGame\dist\SnakeGame.jar</jar>
+  <outfile>C:\Users\ASUS\NetBeansProjects\SnakeGame\release\SnakeGame.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\ASUS\NetBeansProjects\SnakeGame\requirements\icon.ico</icon>
+  <jre>
+    <path>C:\Program Files\Java\jdk-24\bin</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>24.0.1</minVersion>
+    <maxVersion>27.0.1</maxVersion>
+  </jre>
+</launch4jConfig>
