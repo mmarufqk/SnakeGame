@@ -169,9 +169,9 @@ public class MultiPlayerPanel extends JPanel {
         String message;
         String title = "Game Over!";
         if (score1 > score2) {
-            message = "Kiri menang! Skor: " + score1 + " vs " + score2;
+            message = namePlayer1 + " menang! Skor: " + score1 + " vs " + score2;
         } else if (score2 > score1) {
-            message = "Kanan menang! Skor: " + score2 + " vs " + score1;
+            message = namePlayer2 + " menang! Skor: " + score2 + " vs " + score1;
         } else {
             message = "Seri! Skor: " + score1 + " vs " + score2;
         }
