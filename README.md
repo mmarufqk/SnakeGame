@@ -41,7 +41,7 @@ there are 3 buttons: pause, back and restart.
 pause when you want to pause, back to return to the singleplayer menu, and restart if you want to repeat the game (the game point will reset)
 
 ### Multiplayer
-![alt text](https://github.com/mmarufqk/SnakeGame/blob/main/docs/SingleplayerMenu.png)
+![alt text](https://github.com/mmarufqk/SnakeGame/blob/main/docs/Multiplayer.png)
 In multiplayer, it's the same as singleplayer except that each player must survive not to lose, if one player loses. then it will be game over immediately and the other player will continue playing to get higher points.
 You and your friend can control the direction of the snake using the arrow keys on your keyboard:
 
@@ -56,3 +56,7 @@ You and your friend can control the direction of the snake using the arrow keys 
 * **S:** Press the down arrow key to move the snake downwards.
 * **A:** Press the left arrow key to move the snake to the left.
 * **D:** Press the right arrow key to move the snake to the right.
+
+## Additionally
+* PPT : https://github.com/mmarufqk/SnakeGame/blob/main/docs/PPTSnakeGame.pdf
+* Assets : https://drive.google.com/drive/folders/1NX3Rp-jKI0lTsdfrr4I26uEY3zSwnwC5?usp=sharing
