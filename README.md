@@ -60,3 +60,7 @@ You and your friend can control the direction of the snake using the arrow keys 
 ## Additionally
 * PPT : https://github.com/mmarufqk/SnakeGame/blob/main/docs/PPTSnakeGame.pdf
 * Assets : https://drive.google.com/drive/folders/1NX3Rp-jKI0lTsdfrr4I26uEY3zSwnwC5?usp=sharing
+* IDE : Apache NetBeans IDE 26
+* Java Development Kit (JDK) : 24.0.1 (OpenJDK 64-Bit Server VM 24.0.1+9)
+* Runtime : OpenJDK Runtime Environment 24.0.1+9
+* Code Editor : Visual Studio Code 1.101.2 
