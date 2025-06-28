@@ -1,19 +1,14 @@
-
-import ui.MainMenu;
+import frame.GameFrame;
+import panel.MainMenuPanel;
 import utils.SoundLoader;
-
 import javax.swing.SwingUtilities;
-
 
 public class Main {
     public static void main(String[] args) {
-        SwingUtilities.invokeLater(new Runnable() {
-            @Override
-            public void run() {
-                SoundLoader.playBackgroundMusic(); 
-                MainMenu mainMenu = new MainMenu();
-                mainMenu.setVisible(true);
-            }
+        SwingUtilities.invokeLater(() -> {
+            SoundLoader.playBackgroundMusic();
+            GameFrame gameFrame = new GameFrame(new MainMenuPanel());
+            gameFrame.setVisible(true);
         });
     }
 }
