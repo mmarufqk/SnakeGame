@@ -41,7 +41,7 @@ there are 3 buttons: pause, back and restart.
 pause when you want to pause, back to return to the singleplayer menu, and restart if you want to repeat the game (the game point will reset)
 
 ### Multiplayer
-![alt text](https://github.com/mmarufqk/SnakeGame/blob/main/docs/SingleplayerMenu.png)
+![alt text](https://github.com/mmarufqk/SnakeGame/blob/main/docs/Multiplayer.png)
 In multiplayer, it's the same as singleplayer except that each player must survive not to lose, if one player loses. then it will be game over immediately and the other player will continue playing to get higher points.
 You and your friend can control the direction of the snake using the arrow keys on your keyboard:
 
