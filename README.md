@@ -22,7 +22,7 @@ In this singleplayer menu, you will be given features to change the game to make
 in the multiplayer menu, it will look like the singleplayer menu earlier, by adding the name and snake colour for player 2.
 
 ### About
-
+![alt text](https://github.com/mmarufqk/SnakeGame/blob/main/docs/About.png)
 in this about, it contains a brief description of the snake game and shows the game creator who is very handsome (no homo).
 
 ## How To Play
