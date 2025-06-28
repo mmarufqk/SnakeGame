@@ -58,5 +58,5 @@ You and your friend can control the direction of the snake using the arrow keys 
 * **D:** Press the right arrow key to move the snake to the right.
 
 ## Additionally
-PPT : https://github.com/mmarufqk/SnakeGame/blob/main/docs/PPTSnakeGame.pdf
-Assets : https://drive.google.com/drive/folders/1NX3Rp-jKI0lTsdfrr4I26uEY3zSwnwC5?usp=sharing
+* PPT : https://github.com/mmarufqk/SnakeGame/blob/main/docs/PPTSnakeGame.pdf
+* Assets : https://drive.google.com/drive/folders/1NX3Rp-jKI0lTsdfrr4I26uEY3zSwnwC5?usp=sharing
