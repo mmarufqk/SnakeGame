@@ -57,12 +57,13 @@ You and your friend can control the direction of the snake using the arrow keys 
 * **A:** Press the left arrow key to move the snake to the left.
 * **D:** Press the right arrow key to move the snake to the right.
 
-## File Structure for Build :
-* /dist/ (Link File : https://github.com/mmarufqk/SnakeGame/tree/main/dist) : contains the build .jar file from NetBeans.
-* /requirements/ (Link File : https://github.com/mmarufqk/SnakeGame/tree/main/requirements) : contains the Launch4j setup, Inno Setup Compiler, and necessary configuration files.
-* /release/ : contains the final installer (.exe) file, not included in this repo but included in the release.
+## File Structure for Build:
+* [dist/](https://github.com/mmarufqk/SnakeGame/tree/main/dist) : contains the build .jar file from NetBeans.
+* [requirements/](https://github.com/mmarufqk/SnakeGame/tree/main/requirements) : contains the Launch4j setup, Inno Setup Compiler, and necessary configuration files.
+* `release/` : contains the final installer (.exe) file, not included in this repo but included in the [release](https://github.com/mmarufqk/SnakeGame/releases/tag/v1.0.0).
 
-To download the final version of the jar file, executable or installer, please check the Releases page of this repository or you can click this link https://github.com/mmarufqk/SnakeGame/releases/tag/v1.0.0
+To download the final version of the jar file, executable or installer, please check the Releases page of this repository or you can click this [v1.0.0 Release](https://github.com/mmarufqk/SnakeGame/releases/tag/v1.0.0)
+
 
 ## Additionally
 * PPT : https://github.com/mmarufqk/SnakeGame/blob/main/docs/PPTSnakeGame.pdf
