@@ -1,4 +1,4 @@
-# SnakeGame ! 
+# SnakeGame - Final Project Algorithms and Computer Programming II
 
 ## Description
 Snake game is a classic game that was first popular in the old school mobile phone era. in this game, the player controls a snake that keeps moving within a certain area. The goal is to eat objects that appear on the layer, usually depicted as dots or food that will make the snake's body grow longer each time it is eaten. The main challenge in Snake lies in controlling the snake's direction of motion so that it doesn't bump into walls or its own body. The longer the snake, the more difficult it is to control its movements, as space becomes more limited and small mistakes can be fatal.
@@ -60,6 +60,8 @@ You and your friend can control the direction of the snake using the arrow keys 
 ## Additionally
 * PPT : https://github.com/mmarufqk/SnakeGame/blob/main/docs/PPTSnakeGame.pdf
 * Assets : https://drive.google.com/drive/folders/1NX3Rp-jKI0lTsdfrr4I26uEY3zSwnwC5?usp=sharing
+
+## Development Tools
 * IDE : Apache NetBeans IDE 26
 * Java Development Kit (JDK) : 24.0.1 (OpenJDK 64-Bit Server VM 24.0.1+9)
 * Runtime : OpenJDK Runtime Environment 24.0.1+9
