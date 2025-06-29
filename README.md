@@ -76,7 +76,7 @@ To download the final version of the jar file, executable or installer, please c
 * Code Editor : Visual Studio Code 1.101.2.
 
 ## Build Tools
-This application was developed using Development Tools (https://github.com/mmarufqk/SnakeGame?tab=readme-ov-file#development-tools) and compiled to .jar by NetBeans. To make it executable on Windows, We used:
+This application was developed using [Development Tools](https://github.com/mmarufqk/SnakeGame?tab=readme-ov-file#development-tools) and compiled to .jar by NetBeans. To make it executable on Windows, We used:
 * Launch4j (v3.50) : to convert the .jar file to .exe.
 * Inno Setup Compiler (v6.4.3) to create a Windows installer that includes JDK 24 and run the Launch4j generated .exe file.
 With these two tools, applications can be directly installed and run on Windows without the need for manual Java setup.
