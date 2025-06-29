@@ -57,6 +57,14 @@ You and your friend can control the direction of the snake using the arrow keys 
 * **A:** Press the left arrow key to move the snake to the left.
 * **D:** Press the right arrow key to move the snake to the right.
 
+## File Structure :
+* /dist/ - contains the build .jar file from NetBeans
+* /requirements/ - contains the Launch4j setup, Inno Setup Compiler, and necessary configuration files
+* /release/ - contains the final installer (.exe) file, not included in this repo but included in the release
+To download the final version of the jar file, executable or installer, please check the Releases page of this repository or you can click this link https://github.com/mmarufqk/SnakeGame/releases/tag/v1.0.0
+
+
+
 ## Additionally
 * PPT : https://github.com/mmarufqk/SnakeGame/blob/main/docs/PPTSnakeGame.pdf
 * Assets : https://drive.google.com/drive/folders/1NX3Rp-jKI0lTsdfrr4I26uEY3zSwnwC5?usp=sharing
@@ -65,4 +73,11 @@ You and your friend can control the direction of the snake using the arrow keys 
 * IDE : Apache NetBeans IDE 26
 * Java Development Kit (JDK) : 24.0.1 (OpenJDK 64-Bit Server VM 24.0.1+9)
 * Runtime : OpenJDK Runtime Environment 24.0.1+9
-* Code Editor : Visual Studio Code 1.101.2 
+* Code Editor : Visual Studio Code 1.101.2
+
+## Build Tools
+This application was developed using Development Tools and compiled to .jar by NetBeans. To make it executable on Windows, We used:
+* Launch4j (v3.50) : to convert the .jar file to .exe
+* Inno Setup Compiler (v6.4.3) to create a Windows installer that includes JDK 24 and run the Launch4j generated .exe file
+With these two tools, applications can be directly installed and run on Windows without the need for manual Java setup.
+
