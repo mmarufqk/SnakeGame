@@ -58,9 +58,9 @@ You and your friend can control the direction of the snake using the arrow keys 
 * **D:** Press the right arrow key to move the snake to the right.
 
 ## File Structure for Build
-* [dist/](https://github.com/mmarufqk/SnakeGame/tree/main/dist) : contains the build .jar file from NetBeans.
+* [dist/](https://github.com/mmarufqk/SnakeGame/tree/main/dist) : contains the build `.jar` file from NetBeans.
 * [requirements/](https://github.com/mmarufqk/SnakeGame/tree/main/requirements) : contains the Launch4j setup, Inno Setup Compiler, and necessary configuration files.
-* `release/` : contains the final installer (.exe) file, not included in this repo but included in the [release](https://github.com/mmarufqk/SnakeGame/releases/tag/v1.0.0).
+* `release/` : contains the final installer (`.exe`) file, not included in this repo but included in the [release](https://github.com/mmarufqk/SnakeGame/releases/tag/v1.0.0).
 
 To download the final version of the jar file, executable or installer, please check the Releases page of this repository or you can click this [v1.0.0 Release](https://github.com/mmarufqk/SnakeGame/releases/tag/v1.0.0)
 
@@ -77,7 +77,7 @@ To download the final version of the jar file, executable or installer, please c
 
 ## Build Tools
 This application was developed using [Development Tools](https://github.com/mmarufqk/SnakeGame?tab=readme-ov-file#development-tools) and compiled to `.jar` by NetBeans. To make it executable on Windows, We used:
-* Launch4j (v3.50) to convert the `.jar` file to .exe.
+* Launch4j (v3.50) to convert the `.jar` file to `.exe`.
 * Inno Setup Compiler (v6.4.3) to create a Windows installer that includes JDK 24 and run the Launch4j generated `.exe` file.
 
 With these two tools, applications can be directly installed and run on Windows without the need for manual Java setup.
