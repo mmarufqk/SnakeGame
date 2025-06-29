@@ -1,4 +1,4 @@
-# SnakeGame - Final Project Algorithms and Computer Programming II
+# Snake Game - Final Project Algorithms and Computer Programming II
 
 ## Description
 Snake game is a classic game that was first popular in the old school mobile phone era. in this game, the player controls a snake that keeps moving within a certain area. The goal is to eat objects that appear on the layer, usually depicted as dots or food that will make the snake's body grow longer each time it is eaten. The main challenge in Snake lies in controlling the snake's direction of motion so that it doesn't bump into walls or its own body. The longer the snake, the more difficult it is to control its movements, as space becomes more limited and small mistakes can be fatal.
